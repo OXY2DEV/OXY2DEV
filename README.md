@@ -1,6 +1,5 @@
 ![Neovim](https://img.shields.io/badge/Neovim-1e1e2e?style=flat&logo=neovim&logoColor=a6e3a1)
 
----
 
 ![Lua](https://img.shields.io/badge/Lua-1e1e2e?style=flat&logo=lua&logoColor=89b4fa&label=%20)
 ![C](https://img.shields.io/badge/C-1e1e2e?style=flat&logo=c&logoColor=89b4fa&label=%20)
