@@ -1,5 +1,3 @@
-# OXY2DEV
-
 ![Neovim](https://img.shields.io/badge/Neovim-1e1e2e?style=flat&logo=neovim&logoColor=a6e3a1)
 
 ---
